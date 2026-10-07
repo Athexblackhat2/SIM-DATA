@@ -48,7 +48,7 @@
 - **HTML Export** - Browser-based animated reports
 
 ### 🔧 Technical Features
-- **API Integration** - Query athex-black-hat.workers.dev database
+- **API Integration** - Query athex black hat database
 - **Error Handling** - Graceful error recovery with animations
 - **Input Validation** - SIM number format checking
 - **Multiple Display Modes** - Terminal and HTML views
@@ -85,7 +85,7 @@ The tool generates beautiful animated HTML reports that open in your browser wit
 
 ```
 # Clone the repository
-git clone https://github.com/Athexblackhat/SIM-DATA.git
+git clone https://github.com/Athexblackhat2/SIM-DATA.git
 cd SIM-DATA
 
 # Install dependencies
@@ -113,4 +113,4 @@ python run.py
 ***THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.***
 
 
-<p> <b>Made with ❤️ by ATHEX BLACK HAT</b><br> <i>"Information is power, but presentation is everything."</i> </p> <p> <a href="https://github.com/Athexblackhat/SIM-DATA/issues">Report Bug</a> · <a href="https://github.com/Athexblackhat/SIM-DATA/issues">Request Feature</a> · <a href="https://github.com/Athexblackhat/SIM-DATA/pulls">Pull Request</a> </p> </div> ```
+<p> <b>Made with ❤️ by ATHEX BLACK HAT</b><br> <i>"Information is power, but presentation is everything."</i> </p> <p> <a href="https://github.com/Athexblackhat2/SIM-DATA/issues">Report Bug</a> · <a href="https://github.com/Athexblackhat2/SIM-DATA/issues">Request Feature</a> · <a href="https://github.com/Athexblackhat2/SIM-DATA/pulls">Pull Request</a> </p> </div> ```
